@@ -1,9 +1,9 @@
 For PHP 7.3 Upgrade
 First you need to add Ondrejs PPA (if you installed before then you can skip the PPA adding step) :
-`
+``
 sudo add-apt-repository ppa:ondrej/php
 sudo apt-get update
-`
+``
 
 if you get : “‘ascii’ codec can’t decode byte” run this command :
 `
